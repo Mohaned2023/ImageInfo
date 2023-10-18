@@ -35,7 +35,7 @@ delete and save to you'r path - `python main.pyc -p "./myFolder/myImage.png" -d 
 > ___Mohaned Sherhan ~ 2023___
 
 # **My accounts on :**
->[Twitter](https://twitter.com/MrX2023M)
+>[X](https://twitter.com/MrX2023M)
 
 >[instagram](https://instagram.com/mr.lxzl)
 
