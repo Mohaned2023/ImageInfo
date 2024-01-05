@@ -28,7 +28,7 @@ info - `python main.pyc -p "./myFolder/myImage.png" -i`
 
 delete and save to main path - `python main.pyc -p "./myFolder/myImage.png -d`
 
-delete and save to you'r path - `python main.pyc -p "./myFolder/myImage.png" -d -pe "./myFolder" `
+delete and save to your path - `python main.pyc -p "./myFolder/myImage.png" -d -pe "./myFolder" `
 
 
 # **Written by** :
